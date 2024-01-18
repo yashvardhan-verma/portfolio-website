@@ -14,7 +14,7 @@ function App() {
   return (
     <div style={{ width: '100%', height: '100%', position: 'relative', background: '#121212' }}>
       <div style={{ width: 527, height: 232, left: 388, top: 385, position: 'absolute' }}>
-        <div style={{ width: 527, height: 134, left: 0, top: 35, position: 'absolute', color: '#B6C6DE', fontSize: 75, fontFamily: 'Poppins', fontWeight: '700', wordWrap: 'break-word' }}>Yashavrdhan</div>
+      <div style={{ width: 527, height: 134, left: 0, top: 35, position: 'absolute', color: '#B6C6DE', fontSize: 75, fontFamily: 'Poppins', fontWeight: '700', wordWrap: 'break-word' }}>Yashvardhan</div>
         <div style={{ width: 450, height: 81, left: 0, top: 151, position: 'absolute', color: '#8D9FBA', fontSize: 45, fontFamily: 'Poppins', fontWeight: '700', wordWrap: 'break-word' }}>Backend Developer</div>
         <div style={{ width: 368, height: 35, left: 0, top: 0, position: 'absolute', color: '#8D9FBA', fontSize: 25, fontFamily: 'JetBrains Mono', fontWeight: '400', wordWrap: 'break-word' }}>Hi, my name is </div>
       </div>
